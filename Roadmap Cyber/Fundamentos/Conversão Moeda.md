@@ -6,4 +6,8 @@ Essa anotação tem referencia ao Ex003 - Nome e Salário, onde nele eu preciso 
   Concole.WriteLine($"Salário: {Conversão}")
 ``
 
-Esse ToString("C"), vai converter o valor direto para dinherio adicionando até mesmo o R$, com somente 2 números apos a virgula.
+Esse ToString("C"), vai converter o valor direto para dinherio adicionando até mesmo o R$, com somente 2 números apos a virgula. Também há outras formas de fazer uma até mais fácil utilizando a variavel antiga trocando somente na eixbição do console
+
+`` 
+  Console.Write($"Salário: {Salario.ToString("C")}");
+``
