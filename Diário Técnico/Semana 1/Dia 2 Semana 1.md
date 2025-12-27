@@ -66,7 +66,7 @@ Uma alternativa pouco utilizada para condições são os swtichs onde temos os c
 
 Esses laços são de repetição onde uma certa parte do código vai ser repetida até que certa condição seja completa para terminar o loop, tem que tomar muito cuidado com essa parte, pois é comum ter loops infinitos, em alguma parte e isso não é nem um pouco legal de se ver, garanto.
 
-O primeiro loop que vi foi o while, que ele vai repetir até que a condição que tiver nele for verdadeira, quando for falsa, ele vai parar a repetição.
+O primeiro loop que vi foi o while, que ele vai repetir enquanto a condição que tiver nele for verdadeira, quando for falsa, ele vai parar a repetição.
 
 ``while (condição) 
 {
@@ -144,7 +144,7 @@ static void Main(string[] args) //init do programa
 Quando for utilizar o return não posso mais utilizar o void, e ss o tipo do dado que vou estar retornando do meu parametro.
 
 ``
-static int //return um int ent MyMethod(int x) 
+static int MyMethod(int x) 
 {
   return 5 + x; //metodo retorna um valor.
 }
