@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\bin\Debug\net9.0\Ex003 - Nome e Salário.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\bin\Debug\net9.0\Ex003 - Nome e Salário.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\bin\Debug\net9.0\Ex003 - Nome e Salário.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\bin\Debug\net9.0\Ex003 - Nome e Salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\bin\Debug\net9.0\Ex003 - Nome e Salário.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\refint\Ex003 - Nome e Salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\Ex003 - Nome e Salário.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex003 - Nome e Salário\obj\Debug\net9.0\ref\Ex003 - Nome e Salário.dll

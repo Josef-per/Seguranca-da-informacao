@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\bin\Debug\net9.0\Ex001 - Olá Mundo.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\bin\Debug\net9.0\Ex001 - Olá Mundo.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\bin\Debug\net9.0\Ex001 - Olá Mundo.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\bin\Debug\net9.0\Ex001 - Olá Mundo.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\bin\Debug\net9.0\Ex001 - Olá Mundo.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\refint\Ex001 - Olá Mundo.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\Ex001 - Olá Mundo.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex001 - Olá Mundo\obj\Debug\net9.0\ref\Ex001 - Olá Mundo.dll

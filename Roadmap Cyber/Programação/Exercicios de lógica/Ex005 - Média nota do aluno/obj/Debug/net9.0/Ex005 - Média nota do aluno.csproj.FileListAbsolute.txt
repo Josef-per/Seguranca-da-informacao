@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\bin\Debug\net9.0\Ex005 - Média nota do aluno.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\bin\Debug\net9.0\Ex005 - Média nota do aluno.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\bin\Debug\net9.0\Ex005 - Média nota do aluno.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\bin\Debug\net9.0\Ex005 - Média nota do aluno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\bin\Debug\net9.0\Ex005 - Média nota do aluno.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\refint\Ex005 - Média nota do aluno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\Ex005 - Média nota do aluno.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex005 - Média nota do aluno\obj\Debug\net9.0\ref\Ex005 - Média nota do aluno.dll

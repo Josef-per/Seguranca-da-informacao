@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\bin\Debug\net9.0\Ex002 - Boas Vindas.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\bin\Debug\net9.0\Ex002 - Boas Vindas.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\bin\Debug\net9.0\Ex002 - Boas Vindas.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\bin\Debug\net9.0\Ex002 - Boas Vindas.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\bin\Debug\net9.0\Ex002 - Boas Vindas.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\refint\Ex002 - Boas Vindas.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\Ex002 - Boas Vindas.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex002 - Boas Vindas\obj\Debug\net9.0\ref\Ex002 - Boas Vindas.dll

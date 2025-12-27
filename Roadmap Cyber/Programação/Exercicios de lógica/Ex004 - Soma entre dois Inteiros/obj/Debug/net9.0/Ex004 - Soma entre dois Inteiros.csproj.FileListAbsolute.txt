@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\bin\Debug\net9.0\Ex004 - Soma entre dois Inteiros.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\bin\Debug\net9.0\Ex004 - Soma entre dois Inteiros.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\bin\Debug\net9.0\Ex004 - Soma entre dois Inteiros.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\bin\Debug\net9.0\Ex004 - Soma entre dois Inteiros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\bin\Debug\net9.0\Ex004 - Soma entre dois Inteiros.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\refint\Ex004 - Soma entre dois Inteiros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\Ex004 - Soma entre dois Inteiros.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex004 - Soma entre dois Inteiros\obj\Debug\net9.0\ref\Ex004 - Soma entre dois Inteiros.dll
