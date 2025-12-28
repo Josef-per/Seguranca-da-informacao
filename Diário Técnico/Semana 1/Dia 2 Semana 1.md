@@ -156,6 +156,12 @@ static void Main(string[] args)
 
 Acho que é só isso de teoria por hoje, agora para colocar isso em pratica vou tentar fazer três exercicios / pequenos projetos, sendo 
 
-1. Verificador de senha (em um ambiente de login ou cadastro)
-2. Contador (vibe cronometro / timer)
-3. Calculadora (Mini projeto, sendo uma calc simples)
+1. Verificador de senha (em um ambiente de login ou cadastro) - Terminar essa semana
+2. Contador (vibe cronometro / timer) - Começar e tentar terminar ainda essa semana
+3. Calculadora (Mini projeto, sendo uma calc simples) - Possivel inicio na semana 2
+
+# O que aprendi hoje
+
+Hoje com o inicio dos exercicios e dos projetos tive algumas barreiras tecnicas que consegui passar sem muitas dificuldades, uma delas foi a pequena dificuldade de organizar o repo e de criar os arquivos de console para fazer os exercicios de lógica, bem foi dificl pois queria utlizar o meu editor de código padrão o zed. Agora voltando mais a aplicação winforms não tive muita dificuldade em questão ao designer e como criar os formulários, apesar de ainda estar bem cru, não é tão complicado com pensei que podeira ser, tive bem mais avanço e travei mais na parte de fazer as verificações, onde aprendi a fazer e utilzar as verificações de campos vazios e de senhas. 
+
+Agora o proximo passo para o projeto vai ser a incrementação do banco de dados a ele, faltando somente uma revisão de design e um polimento, incrementando verificações maiores como o regex para o email e outras que forem surgindo, mais informações deve estar no documento seguinte.
