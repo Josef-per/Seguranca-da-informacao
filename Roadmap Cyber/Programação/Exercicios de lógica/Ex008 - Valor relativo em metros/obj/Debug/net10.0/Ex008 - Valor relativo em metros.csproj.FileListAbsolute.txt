@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\bin\Debug\net10.0\Ex008 - Valor relativo em metros.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\bin\Debug\net10.0\Ex008 - Valor relativo em metros.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\bin\Debug\net10.0\Ex008 - Valor relativo em metros.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\bin\Debug\net10.0\Ex008 - Valor relativo em metros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\bin\Debug\net10.0\Ex008 - Valor relativo em metros.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\refint\Ex008 - Valor relativo em metros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\Ex008 - Valor relativo em metros.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex008 - Valor relativo em metros\obj\Debug\net10.0\ref\Ex008 - Valor relativo em metros.dll

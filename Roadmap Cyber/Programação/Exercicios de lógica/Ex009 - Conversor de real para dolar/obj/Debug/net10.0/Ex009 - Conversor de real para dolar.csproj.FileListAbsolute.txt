@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\bin\Debug\net10.0\Ex009 - Conversor de real para dolar.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\bin\Debug\net10.0\Ex009 - Conversor de real para dolar.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\bin\Debug\net10.0\Ex009 - Conversor de real para dolar.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\bin\Debug\net10.0\Ex009 - Conversor de real para dolar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\bin\Debug\net10.0\Ex009 - Conversor de real para dolar.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\refint\Ex009 - Conversor de real para dolar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\Ex009 - Conversor de real para dolar.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex009 - Conversor de real para dolar\obj\Debug\net10.0\ref\Ex009 - Conversor de real para dolar.dll

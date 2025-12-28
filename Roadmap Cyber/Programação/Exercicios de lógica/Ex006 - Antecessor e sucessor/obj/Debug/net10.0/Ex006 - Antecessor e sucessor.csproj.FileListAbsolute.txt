@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\bin\Debug\net10.0\Ex006 - Antecessor e sucessor.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\bin\Debug\net10.0\Ex006 - Antecessor e sucessor.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\bin\Debug\net10.0\Ex006 - Antecessor e sucessor.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\bin\Debug\net10.0\Ex006 - Antecessor e sucessor.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\bin\Debug\net10.0\Ex006 - Antecessor e sucessor.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\refint\Ex006 - Antecessor e sucessor.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\Ex006 - Antecessor e sucessor.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex006 - Antecessor e sucessor\obj\Debug\net10.0\ref\Ex006 - Antecessor e sucessor.dll

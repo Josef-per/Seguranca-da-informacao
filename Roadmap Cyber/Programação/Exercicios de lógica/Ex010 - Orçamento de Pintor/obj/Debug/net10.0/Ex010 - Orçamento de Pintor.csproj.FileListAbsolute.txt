@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\bin\Debug\net10.0\Ex010 - Orçamento de Pintor.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\bin\Debug\net10.0\Ex010 - Orçamento de Pintor.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\bin\Debug\net10.0\Ex010 - Orçamento de Pintor.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\bin\Debug\net10.0\Ex010 - Orçamento de Pintor.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\bin\Debug\net10.0\Ex010 - Orçamento de Pintor.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\refint\Ex010 - Orçamento de Pintor.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\Ex010 - Orçamento de Pintor.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex010 - Orçamento de Pintor\obj\Debug\net10.0\ref\Ex010 - Orçamento de Pintor.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ex007 - Donbro e terça parte de um número/1.0.0": {
+        "runtime": {
+          "Ex007 - Donbro e terça parte de um número.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex007 - Donbro e terça parte de um número/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

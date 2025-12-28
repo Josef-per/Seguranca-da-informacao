@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "99YOecNSt+E=",
+  "dgSpecHash": "+7QtXVVrj3Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\josef\\Security\\Roadmap Cyber\\Programação\\Exercicios de lógica\\Ex001 - Olá Mundo\\Ex001 - Olá Mundo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\josef\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\josef\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\josef\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\josef\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

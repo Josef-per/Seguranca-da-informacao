@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ex008 - Valor relativo em metros/1.0.0": {
+        "runtime": {
+          "Ex008 - Valor relativo em metros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex008 - Valor relativo em metros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

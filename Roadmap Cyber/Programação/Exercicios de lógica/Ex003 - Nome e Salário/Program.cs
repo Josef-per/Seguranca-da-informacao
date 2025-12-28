@@ -1,4 +1,6 @@
-//
+using System;
+using System.Globalization;
+
 //Pegando as informações
 Console.Write("Nome do Funcionário: ");
 string NomeFun = Console.ReadLine();

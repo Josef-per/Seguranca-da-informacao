@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\bin\Debug\net10.0\Ex007 - Donbro e terça parte de um número.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\bin\Debug\net10.0\Ex007 - Donbro e terça parte de um número.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\bin\Debug\net10.0\Ex007 - Donbro e terça parte de um número.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\bin\Debug\net10.0\Ex007 - Donbro e terça parte de um número.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\bin\Debug\net10.0\Ex007 - Donbro e terça parte de um número.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\refint\Ex007 - Donbro e terça parte de um número.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\Ex007 - Donbro e terça parte de um número.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex007 - Donbro e terça parte de um número\obj\Debug\net10.0\ref\Ex007 - Donbro e terça parte de um número.dll

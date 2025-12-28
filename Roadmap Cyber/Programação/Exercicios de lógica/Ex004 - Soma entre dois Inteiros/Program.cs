@@ -1,3 +1,5 @@
+using System;
+
 //
 // Pegando os valores
 Console.Write("Escreva o primeiro número: ");
