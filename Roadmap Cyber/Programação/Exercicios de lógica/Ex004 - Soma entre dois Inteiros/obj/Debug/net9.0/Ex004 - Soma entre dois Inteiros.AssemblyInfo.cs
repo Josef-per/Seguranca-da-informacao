@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex004 - Soma entre dois Inteiros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f9a1bb9fc7a7344436a45b3d44a3cc36e5452ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dfa29ccf3265717227ae8aaad036b17cdddc6d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex004 - Soma entre dois Inteiros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex004 - Soma entre dois Inteiros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

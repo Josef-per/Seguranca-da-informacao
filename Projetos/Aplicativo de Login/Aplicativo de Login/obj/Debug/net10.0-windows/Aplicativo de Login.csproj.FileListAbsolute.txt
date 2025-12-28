@@ -1,0 +1,18 @@
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\bin\Debug\net10.0-windows\Aplicativo de Login.exe
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\bin\Debug\net10.0-windows\Aplicativo de Login.deps.json
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\bin\Debug\net10.0-windows\Aplicativo de Login.runtimeconfig.json
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\bin\Debug\net10.0-windows\Aplicativo de Login.dll
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\bin\Debug\net10.0-windows\Aplicativo de Login.pdb
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo_de_Login.frm_Cadastro.resources
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.csproj.GenerateResource.cache
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.AssemblyInfo.cs
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.sourcelink.json
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.dll
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\refint\Aplicativo de Login.dll
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.pdb
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo de Login.genruntimeconfig.cache
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\ref\Aplicativo de Login.dll
+C:\Users\josef\Security\Projetos\Aplicativo de Login\Aplicativo de Login\obj\Debug\net10.0-windows\Aplicativo_de_Login.frm_Entrar.resources
