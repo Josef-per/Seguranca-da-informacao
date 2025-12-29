@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\bin\Debug\net10.0\Ex014 - Locadora de Carros.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\bin\Debug\net10.0\Ex014 - Locadora de Carros.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\bin\Debug\net10.0\Ex014 - Locadora de Carros.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\bin\Debug\net10.0\Ex014 - Locadora de Carros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\bin\Debug\net10.0\Ex014 - Locadora de Carros.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\refint\Ex014 - Locadora de Carros.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\Ex014 - Locadora de Carros.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex014 - Locadora de Carros\obj\Debug\net10.0\ref\Ex014 - Locadora de Carros.dll

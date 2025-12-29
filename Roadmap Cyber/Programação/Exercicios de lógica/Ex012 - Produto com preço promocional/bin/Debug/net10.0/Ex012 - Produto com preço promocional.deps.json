@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ex012 - Produto com preço promocional/1.0.0": {
+        "runtime": {
+          "Ex012 - Produto com preço promocional.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex012 - Produto com preço promocional/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

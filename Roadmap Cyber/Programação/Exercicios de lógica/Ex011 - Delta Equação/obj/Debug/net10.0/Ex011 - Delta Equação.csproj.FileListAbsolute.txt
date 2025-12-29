@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\bin\Debug\net10.0\Ex011 - Delta Equação.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\bin\Debug\net10.0\Ex011 - Delta Equação.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\bin\Debug\net10.0\Ex011 - Delta Equação.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\bin\Debug\net10.0\Ex011 - Delta Equação.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\bin\Debug\net10.0\Ex011 - Delta Equação.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\refint\Ex011 - Delta Equação.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\Ex011 - Delta Equação.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex011 - Delta Equação\obj\Debug\net10.0\ref\Ex011 - Delta Equação.dll

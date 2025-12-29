@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\bin\Debug\net10.0\Ex013 - Aumento de salário.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\bin\Debug\net10.0\Ex013 - Aumento de salário.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\bin\Debug\net10.0\Ex013 - Aumento de salário.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\bin\Debug\net10.0\Ex013 - Aumento de salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\bin\Debug\net10.0\Ex013 - Aumento de salário.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\refint\Ex013 - Aumento de salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\Ex013 - Aumento de salário.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex013 - Aumento de salário\obj\Debug\net10.0\ref\Ex013 - Aumento de salário.dll

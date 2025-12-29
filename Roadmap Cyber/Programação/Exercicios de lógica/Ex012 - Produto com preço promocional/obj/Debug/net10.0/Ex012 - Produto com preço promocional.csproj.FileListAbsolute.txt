@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\bin\Debug\net10.0\Ex012 - Produto com preço promocional.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\bin\Debug\net10.0\Ex012 - Produto com preço promocional.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\bin\Debug\net10.0\Ex012 - Produto com preço promocional.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\bin\Debug\net10.0\Ex012 - Produto com preço promocional.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\bin\Debug\net10.0\Ex012 - Produto com preço promocional.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\refint\Ex012 - Produto com preço promocional.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\Ex012 - Produto com preço promocional.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex012 - Produto com preço promocional\obj\Debug\net10.0\ref\Ex012 - Produto com preço promocional.dll

@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\bin\Debug\net10.0\Ex015 - Calculo de Salário.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\bin\Debug\net10.0\Ex015 - Calculo de Salário.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\bin\Debug\net10.0\Ex015 - Calculo de Salário.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\bin\Debug\net10.0\Ex015 - Calculo de Salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\bin\Debug\net10.0\Ex015 - Calculo de Salário.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\refint\Ex015 - Calculo de Salário.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\Ex015 - Calculo de Salário.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex015 - Calculo de Salário\obj\Debug\net10.0\ref\Ex015 - Calculo de Salário.dll
