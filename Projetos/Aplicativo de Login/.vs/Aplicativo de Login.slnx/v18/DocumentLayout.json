@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|c:\\users\\josef\\security\\projetos\\aplicativo de login\\aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|c:\\users\\josef\\security\\projetos\\aplicativo de login\\aplicativo de login\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|c:\\users\\josef\\security\\projetos\\aplicativo de login\\aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Aplicativo de Login\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\DbConnection.cs",
+              "RelativeToolTip": "Aplicativo de Login\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T00:34:23.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Cadastro.cs",
+              "RelativeDocumentMoniker": "Aplicativo de Login\\frm_Cadastro.cs",
+              "ToolTip": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Cadastro.cs",
+              "RelativeToolTip": "Aplicativo de Login\\frm_Cadastro.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T00:17:42.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frm_Cadastro.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Cadastro.cs",
+              "RelativeDocumentMoniker": "Aplicativo de Login\\frm_Cadastro.cs",
+              "ToolTip": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Cadastro.cs [Projeto]",
+              "RelativeToolTip": "Aplicativo de Login\\frm_Cadastro.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T23:37:42.522Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

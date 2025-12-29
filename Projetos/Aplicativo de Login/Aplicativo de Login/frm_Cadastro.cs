@@ -1,3 +1,5 @@
+using MySql.Data.MySqlClient;
+
 namespace Aplicativo_de_Login
 {
     public partial class frm_Cadastro : Form
@@ -72,13 +74,35 @@ namespace Aplicativo_de_Login
             }
         }
 
-        private void btn_Cadastrar_Click(object sender, EventArgs e)
+        private bool Salvar()
         {
             //pegar o valor dos campos
             string nome = txt_Nome.Text;
             string email = txt_Email.Text;
             string senha = txt_Senha.Text;
-            string confSenha = txt_ConfSenha.Text;
+
+            MySqlConnection conn = DbConnection.GetSqlConnection();
+
+            try
+            {
+                conn.Open(); // abrindo a conexão com a classe feita
+                //Rodando o comando MySql para salvar no banco
+                
+                var comando = new MySqlCommand($"INSERT INTO tb_usuarios (usuarios_nome, usuarios_email, usuarios_senha) Values ({nome}, {email}, {senha})");
+                var reader = comando.ExecuteReader();
+
+                MessageBox.Show("Cadastro realizado com sucesso");
+                return true;
+            }
+            catch (Exception ex) 
+            {
+                MessageBox.Show("Aconteceu algum erro" + ex.Message);
+                return false;
+            }
+        }
+
+        private void btn_Cadastrar_Click(object sender, EventArgs e)
+        {
 
             //verificações
             if (!CamposVasios())
@@ -91,9 +115,11 @@ namespace Aplicativo_de_Login
                 return;
             }
 
-            MessageBox.Show("Cadastro realizado com sucesso");
-
             //salvar no banco
+            if (!Salvar())
+            {
+                return; 
+            }
 
             //apos salvar no banco
             frm_Entrar entrar = new frm_Entrar();
