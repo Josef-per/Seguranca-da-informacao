@@ -86,12 +86,24 @@ namespace Aplicativo_de_Login
             try
             {
                 conn.Open(); // abrindo a conexão com a classe feita
-                //Rodando o comando MySql para salvar no banco
-                
-                var comando = new MySqlCommand($"INSERT INTO tb_usuarios (usuarios_nome, usuarios_email, usuarios_senha) Values ({nome}, {email}, {senha})");
-                var reader = comando.ExecuteReader();
+
+                //criando o comando Sql
+                string sql = "INSERT INTO tb_usuarios " +
+                    "             (usuarios_nome, usuarios_email, usuarios_senha_hash) " +
+                    "             Values (@nome, @email, @senha)"; //puxar as variaveis assim e não por  interpolação pra não ter sql injection
+
+                using (MySqlCommand comando = new MySqlCommand(sql, conn)) // aqui dentro vai o comando sql e a conexão, se não tiver a conexão ele não usa ele ai da erro
+                {
+                    //trocar os parametros da sring sql, para poder executar
+                    comando.Parameters.AddWithValue("@nome", nome);
+                    comando.Parameters.AddWithValue("@email", email);
+                    comando.Parameters.AddWithValue("@senha", senha);
+
+                    comando.ExecuteNonQuery(); // aqui ele vai executar o comando
+                };
 
                 MessageBox.Show("Cadastro realizado com sucesso");
+                conn.Close();
                 return true;
             }
             catch (Exception ex) 
@@ -123,8 +135,8 @@ namespace Aplicativo_de_Login
 
             //apos salvar no banco
             frm_Entrar entrar = new frm_Entrar();
+            this.Hide();
             entrar.Show();
-
         }
     }
 }
