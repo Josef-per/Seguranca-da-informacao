@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\bin\Debug\net10.0\Ex017 - Velocidade de um carro.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\bin\Debug\net10.0\Ex017 - Velocidade de um carro.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\bin\Debug\net10.0\Ex017 - Velocidade de um carro.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\bin\Debug\net10.0\Ex017 - Velocidade de um carro.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\bin\Debug\net10.0\Ex017 - Velocidade de um carro.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\refint\Ex017 - Velocidade de um carro.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\Ex017 - Velocidade de um carro.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex017 - Velocidade de um carro\obj\Debug\net10.0\ref\Ex017 - Velocidade de um carro.dll

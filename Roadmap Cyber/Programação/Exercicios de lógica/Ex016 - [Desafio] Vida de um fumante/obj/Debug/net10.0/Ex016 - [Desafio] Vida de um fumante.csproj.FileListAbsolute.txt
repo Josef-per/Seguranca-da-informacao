@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\bin\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\bin\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\bin\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\bin\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\bin\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\refint\Ex016 - [Desafio] Vida de um fumante.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\Ex016 - [Desafio] Vida de um fumante.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex016 - [Desafio] Vida de um fumante\obj\Debug\net10.0\ref\Ex016 - [Desafio] Vida de um fumante.dll

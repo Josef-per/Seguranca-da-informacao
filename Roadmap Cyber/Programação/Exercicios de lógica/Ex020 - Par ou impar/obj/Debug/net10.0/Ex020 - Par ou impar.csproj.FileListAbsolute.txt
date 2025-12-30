@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\bin\Debug\net10.0\Ex020 - Par ou impar.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\bin\Debug\net10.0\Ex020 - Par ou impar.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\bin\Debug\net10.0\Ex020 - Par ou impar.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\bin\Debug\net10.0\Ex020 - Par ou impar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\bin\Debug\net10.0\Ex020 - Par ou impar.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\refint\Ex020 - Par ou impar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\Ex020 - Par ou impar.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex020 - Par ou impar\obj\Debug\net10.0\ref\Ex020 - Par ou impar.dll

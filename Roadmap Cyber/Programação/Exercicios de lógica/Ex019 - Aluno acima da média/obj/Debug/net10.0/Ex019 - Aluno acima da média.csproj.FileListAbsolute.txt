@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\bin\Debug\net10.0\Ex019 - Aluno acima da média.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\bin\Debug\net10.0\Ex019 - Aluno acima da média.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\bin\Debug\net10.0\Ex019 - Aluno acima da média.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\bin\Debug\net10.0\Ex019 - Aluno acima da média.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\bin\Debug\net10.0\Ex019 - Aluno acima da média.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\refint\Ex019 - Aluno acima da média.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\Ex019 - Aluno acima da média.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex019 - Aluno acima da média\obj\Debug\net10.0\ref\Ex019 - Aluno acima da média.dll

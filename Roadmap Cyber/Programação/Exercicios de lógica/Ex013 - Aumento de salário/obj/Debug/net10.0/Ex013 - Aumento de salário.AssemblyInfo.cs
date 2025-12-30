@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex013 - Aumento de salário")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5af29113308df7733674bf822c9f8f5535a40380")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa75db71e807e179fe5a3f0cb07cf7949f3c4661")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex013 - Aumento de salário")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex013 - Aumento de salário")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
