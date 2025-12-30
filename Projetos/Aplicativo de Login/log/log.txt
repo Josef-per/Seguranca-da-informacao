@@ -1,0 +1,4 @@
+[30-12-2025 16:50:40] Email= josef@gmail.com | Sucesso= True
+
+[30-12-2025 16:50:49] Email= fedssad | Sucesso= False
+

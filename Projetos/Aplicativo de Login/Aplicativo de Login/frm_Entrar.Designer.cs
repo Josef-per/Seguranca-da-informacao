@@ -100,6 +100,7 @@
             // 
             txt_Senha.Location = new Point(132, 117);
             txt_Senha.Name = "txt_Senha";
+            txt_Senha.PasswordChar = '*';
             txt_Senha.Size = new Size(358, 23);
             txt_Senha.TabIndex = 6;
             // 

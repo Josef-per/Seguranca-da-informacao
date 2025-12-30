@@ -108,6 +108,7 @@
             // 
             txt_ConfSenha.Location = new Point(132, 293);
             txt_ConfSenha.Name = "txt_ConfSenha";
+            txt_ConfSenha.PasswordChar = '*';
             txt_ConfSenha.Size = new Size(358, 23);
             txt_ConfSenha.TabIndex = 7;
             // 
@@ -115,6 +116,7 @@
             // 
             txt_Senha.Location = new Point(132, 213);
             txt_Senha.Name = "txt_Senha";
+            txt_Senha.PasswordChar = '*';
             txt_Senha.Size = new Size(358, 23);
             txt_Senha.TabIndex = 6;
             // 
