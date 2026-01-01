@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\bin\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\bin\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\bin\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\bin\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\bin\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\refint\Ex025 - [Desafio] Formação de triangulos.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\Ex025 - [Desafio] Formação de triangulos.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex025 - [Desafio] Formação de triangulos\obj\Debug\net10.0\ref\Ex025 - [Desafio] Formação de triangulos.dll

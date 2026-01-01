@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex015 - Calculo de Salário")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa75db71e807e179fe5a3f0cb07cf7949f3c4661")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b6f1e3bad41c74468e87a7d65cd39611d3a960")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex015 - Calculo de Salário")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex015 - Calculo de Salário")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

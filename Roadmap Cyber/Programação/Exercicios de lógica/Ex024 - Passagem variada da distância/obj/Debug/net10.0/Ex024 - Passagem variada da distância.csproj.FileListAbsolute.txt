@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\bin\Debug\net10.0\Ex024 - Passagem variada da distância.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\bin\Debug\net10.0\Ex024 - Passagem variada da distância.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\bin\Debug\net10.0\Ex024 - Passagem variada da distância.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\bin\Debug\net10.0\Ex024 - Passagem variada da distância.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\bin\Debug\net10.0\Ex024 - Passagem variada da distância.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\refint\Ex024 - Passagem variada da distância.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\Ex024 - Passagem variada da distância.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex024 - Passagem variada da distância\obj\Debug\net10.0\ref\Ex024 - Passagem variada da distância.dll

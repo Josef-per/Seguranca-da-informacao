@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\bin\Debug\net10.0\Ex022 - Alistamento militar.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\bin\Debug\net10.0\Ex022 - Alistamento militar.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\bin\Debug\net10.0\Ex022 - Alistamento militar.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\bin\Debug\net10.0\Ex022 - Alistamento militar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\bin\Debug\net10.0\Ex022 - Alistamento militar.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\refint\Ex022 - Alistamento militar.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\Ex022 - Alistamento militar.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex022 - Alistamento militar\obj\Debug\net10.0\ref\Ex022 - Alistamento militar.dll

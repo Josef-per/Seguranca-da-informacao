@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\bin\Debug\net10.0\Ex023 - Desconto dia das mulheres.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\bin\Debug\net10.0\Ex023 - Desconto dia das mulheres.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\bin\Debug\net10.0\Ex023 - Desconto dia das mulheres.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\bin\Debug\net10.0\Ex023 - Desconto dia das mulheres.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\bin\Debug\net10.0\Ex023 - Desconto dia das mulheres.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\refint\Ex023 - Desconto dia das mulheres.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\Ex023 - Desconto dia das mulheres.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex023 - Desconto dia das mulheres\obj\Debug\net10.0\ref\Ex023 - Desconto dia das mulheres.dll

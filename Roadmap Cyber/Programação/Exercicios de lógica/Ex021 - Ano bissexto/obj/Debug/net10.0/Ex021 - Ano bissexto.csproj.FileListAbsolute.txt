@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\bin\Debug\net10.0\Ex021 - Ano bissexto.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\bin\Debug\net10.0\Ex021 - Ano bissexto.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\bin\Debug\net10.0\Ex021 - Ano bissexto.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\bin\Debug\net10.0\Ex021 - Ano bissexto.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\bin\Debug\net10.0\Ex021 - Ano bissexto.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\refint\Ex021 - Ano bissexto.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\Ex021 - Ano bissexto.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex021 - Ano bissexto\obj\Debug\net10.0\ref\Ex021 - Ano bissexto.dll
