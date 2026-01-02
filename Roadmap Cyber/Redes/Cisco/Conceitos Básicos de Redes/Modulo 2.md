@@ -33,3 +33,11 @@ Ficam no caminho da informação mandada por um host, eles podem ser entre swict
 - **Meios físicos de rede**
 
 Nessa categoria temos as conexões como cabeada LAN (para ambientes locais e de curtas distancias), WAN (cabeamento para longas distancias como os da sua operadora), Sem fio (Wi-fi, Bluetooth e outros), Eles são os elementos fisicos que compõe a rede
+
+## Opções de conectividade com o ISP
+
+Isp é o provedor de serviõ de internet, fornece os links necessários para a rede doméstica se conectar com a rede, além disso podem prover serviços adicionais para seus clientes, cada ISP se conecta entre si, ou seja é como se a vivo e a claro fossem conectadas, isso é muito importante para o funcionamento da internet, sendo conectados de maneir hierarquica para poderem prover o menor caminho de conexão até algum outro lugar.
+
+Para se conectar a um serviço isp, precisamos de um roteador e um modem, esse modem ele faz a ligação com o isp, o roteador é importante para tratar as informações e manter o computador do usuario seguro, caso ele se conecte de uma forma direta ao modem ele fica muito vulnerável a qualquer tipo de ataque, o modem serve como parede, serve para proteger o usuário, ainda assim fornecendo as informações para o modem e recebendo as mesmas, as direcionando ao cliente.
+
+Normalmente essa conexão é feita por cabos de fibra óptica, por serem perfeitos para esse tipode de trabalho, contudo não são todos os lugarres que tem isso, assim há a conexão por cabos de cobre, que geralemte são os mesmo da tv cabeada, cabos de telefone DSL, são os mais recomendados caso fribra óptica não esteja disponível, pois com ela vc tem canais de telefone dowload, upload, especificos e mais rápidos, Celular que é o wireless, satélite, Conexão de escada, nunca usar o ultimo vai por mim, melhor ficar sem do que usar a ultima opção.
