@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|c:\\users\\josef\\security\\projetos\\aplicativo de login\\aplicativo de login\\frm_entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\frm_entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|c:\\users\\josef\\security\\projetos\\aplicativo de login\\aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|c:\\users\\josef\\security\\projetos\\aplicativo de login\\aplicativo de login\\frm_entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\frm_entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\frm_cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|c:\\users\\josef\\security\\projetos\\aplicativo de login\\aplicativo de login\\frm_entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\aplicativo de login\\frm_entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{21B35F11-3610-718C-9CC3-8B0729A49CF8}|Aplicativo de Login\\Aplicativo de Login.csproj|solutionrelative:aplicativo de login\\frm_entrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -44,38 +44,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frm_Entrar.cs [Projeto]",
+              "Title": "frm_Entrar.cs [Design]",
               "DocumentMoniker": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Entrar.cs",
               "RelativeDocumentMoniker": "Aplicativo de Login\\frm_Entrar.cs",
-              "ToolTip": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Entrar.cs [Projeto]",
-              "RelativeToolTip": "Aplicativo de Login\\frm_Entrar.cs [Projeto]",
+              "ToolTip": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Entrar.cs [Design]",
+              "RelativeToolTip": "Aplicativo de Login\\frm_Entrar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T18:07:35.291Z",
               "IsPinned": true,
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frm_Cadastro.cs",
               "DocumentMoniker": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Cadastro.cs",
               "RelativeDocumentMoniker": "Aplicativo de Login\\frm_Cadastro.cs",
               "ToolTip": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Cadastro.cs",
               "RelativeToolTip": "Aplicativo de Login\\frm_Cadastro.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADgv3MAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwFMAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T18:32:31.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frm_Entrar.cs",
               "DocumentMoniker": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Entrar.cs",
               "RelativeDocumentMoniker": "Aplicativo de Login\\frm_Entrar.cs",
               "ToolTip": "C:\\Users\\josef\\Security\\Projetos\\Aplicativo de Login\\Aplicativo de Login\\frm_Entrar.cs",
               "RelativeToolTip": "Aplicativo de Login\\frm_Entrar.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAIwIgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T18:07:59.355Z",
               "EditorCaption": ""
