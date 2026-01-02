@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex008 - Valor relativo em metros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b6f1e3bad41c74468e87a7d65cd39611d3a960")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb97a7b71c4369c55fe90d15b6cde9c166ffd90c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex008 - Valor relativo em metros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex008 - Valor relativo em metros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

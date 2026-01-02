@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ex030 - [Desafio] Formação de triangulos e classificação/1.0.0": {
+        "runtime": {
+          "Ex030 - [Desafio] Formação de triangulos e classificação.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex030 - [Desafio] Formação de triangulos e classificação/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

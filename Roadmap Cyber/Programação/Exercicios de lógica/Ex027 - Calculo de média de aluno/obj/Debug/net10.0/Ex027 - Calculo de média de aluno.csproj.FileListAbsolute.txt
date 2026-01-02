@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\bin\Debug\net10.0\Ex027 - Calculo de média de aluno.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\bin\Debug\net10.0\Ex027 - Calculo de média de aluno.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\bin\Debug\net10.0\Ex027 - Calculo de média de aluno.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\bin\Debug\net10.0\Ex027 - Calculo de média de aluno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\bin\Debug\net10.0\Ex027 - Calculo de média de aluno.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\refint\Ex027 - Calculo de média de aluno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\Ex027 - Calculo de média de aluno.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex027 - Calculo de média de aluno\obj\Debug\net10.0\ref\Ex027 - Calculo de média de aluno.dll

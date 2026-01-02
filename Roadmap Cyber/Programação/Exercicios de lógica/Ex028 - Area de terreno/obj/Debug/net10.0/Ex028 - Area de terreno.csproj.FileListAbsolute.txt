@@ -1,0 +1,15 @@
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\bin\Debug\net10.0\Ex028 - Area de terreno.exe
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\bin\Debug\net10.0\Ex028 - Area de terreno.deps.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\bin\Debug\net10.0\Ex028 - Area de terreno.runtimeconfig.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\bin\Debug\net10.0\Ex028 - Area de terreno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\bin\Debug\net10.0\Ex028 - Area de terreno.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.AssemblyInfoInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.AssemblyInfo.cs
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.csproj.CoreCompileInputs.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.sourcelink.json
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\refint\Ex028 - Area de terreno.dll
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.pdb
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\Ex028 - Area de terreno.genruntimeconfig.cache
+C:\Users\josef\Security\Roadmap Cyber\Programação\Exercicios de lógica\Ex028 - Area de terreno\obj\Debug\net10.0\ref\Ex028 - Area de terreno.dll
